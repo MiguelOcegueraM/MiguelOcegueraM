@@ -14,7 +14,7 @@ I'm Miguel Oceguera. I'm a Telematics Engineer and I currently working as a Ruby
 
 - 📝 I regulary write articles on **[MiguelOcegueraM-Medium](https://medium.com/@miguelocegueram)**
 
-- 📫 How to reach me **[Mail](migueloceguera.m@gmail.com)**
+- 📫 How to reach me **migueloceguera.m@gmail.com**
 
 <!-- Social Networks -->
 <h3 align="left">Connect with me:</h3>
