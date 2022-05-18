@@ -3,7 +3,8 @@
 
 <!-- About me -->
 <p>
-I'm Miguel Oceguera. I'm a Telematics Engineer and I currently working as a Ruby on Rails Developer on HCL Technologies 👨🏻‍💻. I have worked within software development teams for at least 1 year working as Front-End developer with technologies with Ruby on Rails, VueJs and SASS. I'm a passionate of the technologies and I always willing to learn a lot and have fun. I also love to explore new technologies and help to my colleagues.
+I'm Miguel Oceguera. I'm a Telematics Engineer and I currently working as a Ruby on Rails Developer on HCL Technologies 👨🏻‍💻. 
+I have been working within software development teams for at least 1 year as Front-End developer with technologies like Ruby on Rails, VueJs and SASS. I'm a passionate of the technologies and I always willing to learn a lot and have fun. I also love to explore new technologies and help to my colleagues.
 </p>
 
 <h3> Personal stuffs:</h3>
