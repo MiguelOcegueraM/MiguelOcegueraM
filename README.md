@@ -4,14 +4,14 @@
 <!-- About me -->
 <p>
 I'm Miguel Oceguera. I'm a Telematics Engineer and I currently working as a Ruby on Rails Developer on HCL Technologies 👨🏻‍💻. 
-I have been working within software development teams for at least 1 year as Front-End developer with technologies like Ruby on Rails, VueJs and SASS. I'm a passionate of the technologies and I always willing to learn a lot and have fun. I also love to explore new technologies and help to my colleagues.
+I'm in charge of the executing some maintenance tasks and actively participating in charge of the development of new products for the integration of GDPR regulations through API's in existing products of the client, this with the help of technologies such as Ruby on Rails, Javascript and .NET.
 </p>
 
 <h3> Personal stuffs:</h3>
 
 - 👨🏽‍💻 I’m currently working as Ruby on Rails Developer on HCL Technologies 💎
 
-- 🌱 I’m currently learning GraphQL and VueJs
+- 🌱 I’m currently learning AWS and improving my Ruby Skills
 
 - 📝 I regulary write articles on **[MiguelOcegueraM-Medium](https://medium.com/@miguelocegueram)**
 
