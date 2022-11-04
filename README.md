@@ -1,6 +1,9 @@
 <!-- welcome message -->
 <h2>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
+<h3> My badges </h3>
+[![@miguelocegueram's Holopin board](https://holopin.me/miguelocegueram)](https://holopin.io/@miguelocegueram)
+
 <!-- About me -->
 <p>
 I'm Miguel Oceguera. I'm a Telematics Engineer and I currently working as a Ruby on Rails Developer on HCL Technologies 👨🏻‍💻. 
