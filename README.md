@@ -13,9 +13,9 @@ I'm in charge of the executing some maintenance tasks and actively participating
 
 <h3> Personal stuffs:</h3>
 
-- 👨🏽‍💻 I’m currently working as Ruby on Rails Developer on HCL Technologies 💎
+- 👨🏽‍💻 I’m currently working as Mobile Application Developer on HCL Technologies 📱
 
-- 🌱 I’m currently learning AWS and improving my Ruby Skills
+- 🌱 I’m currently learning AWS, React Native, Redux and improving my Ruby Skills as side project.
 
 - 📝 I regulary write articles on **[MiguelOcegueraM-Medium](https://medium.com/@miguelocegueram)**
 
