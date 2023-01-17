@@ -7,8 +7,7 @@
 
 <!-- About me -->
 <p>
-I'm Miguel Oceguera. I'm a Telematics Engineer and I currently working as a Ruby on Rails Developer on HCL Technologies 👨🏻‍💻. 
-I'm in charge of the executing some maintenance tasks and actively participating in charge of the development of new products for the integration of GDPR regulations through API's in existing products of the client, this with the help of technologies such as Ruby on Rails, Javascript and .NET.
+I am a Telematics Engineer who graduated from the University of Colima, currently, I am working as a Software Developer in HCLTech 👨🏻‍💻 executing some maintenance tasks and actively participating in charge of the development of new products, features, and maintenance of some existing applications running with React Native for both SO (iOS and Android). I'm always constantly learning, nowadays I'm learning Swift to improve my Mobile Developer skills.
 </p>
 
 <h3> Personal stuffs:</h3>
