@@ -12,7 +12,7 @@ I am a Telematics Engineer who graduated from the University of Colima, currentl
 
 <h3> Personal stuffs:</h3>
 
-- 👨🏽‍💻 I’m currently working as Mobile Application Developer on HCL Technologies 📱
+- 👨🏽‍💻 I’m currently working as Mobile Application Developer on Herbalife 📱
 
 - 🌱 I’m currently learning AWS, React Native, Redux and improving my Ruby Skills as side project.
 
