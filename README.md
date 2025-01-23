@@ -12,7 +12,7 @@ Doing code and being consultant at Dynatrace.
 
 <h3> Personal stuffs:</h3>
 
-- 👨🏽‍💻 I’m currently working as Mobile Application Developer on Herbalife 📱
+- 👨🏽‍💻 Doing code as a freelance just for fun and being Delivery Consultant at Dynatrace 📱
 
 - 🌱 Doing code and meetups for Web Dev Talks community.
 
