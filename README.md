@@ -7,7 +7,7 @@
 
 <!-- About me -->
 <p>
-I am a Telematics Engineer graduated from the University of Colima, currently I'm working as a Mobile Developer II at Herbalife. In my role, I handle maintenance tasks and I play an active role in the development of new products and features. Utilizing React Native, I contribute to the enhancement and maintenance of existing applications, catering to both iOS and Android platforms. I have a huge passion for continuous learning, exploring new technologies to enhance my Developer skills.
+Doing code and being consultant at Dynatrace.
 </p>
 
 <h3> Personal stuffs:</h3>
