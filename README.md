@@ -12,11 +12,9 @@ Doing code and being consultant at Dynatrace.
 
 <h3> Personal stuffs:</h3>
 
-- 👨🏽‍💻 Doing code as a freelance just for fun and being Delivery Consultant at Dynatrace 📱
+- 👨🏽‍💻 Doing code and Sr Consultant at Dynatrace 📱
 
 - 🌱 Doing code and meetups for Web Dev Talks community.
-
-- 📝 I regulary write articles on **[MiguelOcegueraM-Medium](https://medium.com/@miguelocegueram)**
 
 - 📫 How to reach me **migueloceguera.m@gmail.com**
 
