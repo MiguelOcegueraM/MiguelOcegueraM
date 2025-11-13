@@ -12,11 +12,11 @@ Doing code and being consultant at Dynatrace.
 
 <h3> Personal stuffs:</h3>
 
-- 👨🏽‍💻 Doing code and Sr Consultant at Dynatrace 📱
+- Doing code and Sr Consultant at Dynatrace 📱
 
-- 🌱 Doing code and meetups for Web Dev Talks community.
+- Doing community and meetups for Web Dev Talks and JSConf México.
 
-- 📫 How to reach me **migueloceguera.m@gmail.com**
+- Reach me at **migueloceguera.m@gmail.com**
 
 <!-- Social Networks -->
 <h3 align="left">Connect with me:</h3>
@@ -25,10 +25,9 @@ Doing code and being consultant at Dynatrace.
 <a href="https://twitter.com/mikeoceguera" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/miguelocegueram/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
   
-  <!-- GitHub stats -->
+  <!-- GitHub stats
 <b>⚡ My GitHub Statistics</b>
   
 <p>
-<!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelOcegueraM&show_icons=true&hide_border=true" />
-</p>
+</p> -->
